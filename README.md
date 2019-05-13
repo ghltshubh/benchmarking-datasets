@@ -1,4 +1,4 @@
-# datasets-hpc
+# datasets-HPC
 ## MLPerf HPC Datasets
 
 The purpose of this note is to document the available datasets for MLPerf HPC benchmarking.
